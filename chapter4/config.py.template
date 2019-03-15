@@ -1,0 +1,7 @@
+WIFI_SSID =
+WIFI_PASSWORD =
+WEBHOOK_URL =
+BUTTON_ID = 'micropython1'
+LED_PIN = 2  # D4
+LED2_PIN = 16  # D0
+DEBUG_PIN = 14  # D5
